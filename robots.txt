@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eteviaku.github.io/Qkf/sitemap_index.txt
+Sitemap: https://eteviaku.github.io/dYw/sitemap_index.txt
+Sitemap: https://eteviaku.github.io/jQF/sitemap_index.txt
+Sitemap: https://eteviaku.github.io/pGN/sitemap_index.txt
